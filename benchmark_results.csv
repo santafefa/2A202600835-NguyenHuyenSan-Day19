@@ -1,0 +1,21 @@
+﻿No,Question,FlatRAG_ms,GraphRAG_ms,FlatRAG_Score,GraphRAG_Score,FlatRAG_OK,GraphRAG_OK,Graph_Advantage,Query_Entities
+1,Who are Tesla's main competitors in the EV market?,12.6,19.4,0.687,0.687,YES,YES,YES,"['EV', 'Tesla']"
+2,What is BYD and when was it founded?,20.3,26.3,0.511,0.511,YES,YES,YES,['BYD']
+3,What is Berkshire Hathaway's relationship with BYD?,37.4,32.5,0.464,0.464,YES,YES,YES,"['BYD', ""Berkshire Hathaway's"", 'Berkshi"
+4,What EV companies does Rivian compete with?,9.7,25.1,0.673,0.673,YES,YES,YES,"['EV', 'DOE', 'Rivian']"
+5,How does BYD compete with Tesla globally?,8.8,20.4,0.714,0.714,YES,YES,YES,"['BYD', 'DOE', 'Tesla']"
+6,What are BYD's best-selling EV models?,9.4,35.1,0.709,0.709,YES,YES,YES,"['BYD', 'EV']"
+7,What is the BYD Seagull and how much does it cost?,12.0,28.4,0.306,0.306,NO,NO,YES,"['BYD', 'DOE', 'Seagull']"
+8,What is the Blade Battery technology?,10.4,24.8,0.475,0.461,YES,YES,YES,['Blade Battery']
+9,What Tesla models are most popular?,20.3,28.0,0.586,0.586,YES,YES,YES,['Tesla']
+10,What is the range of the Ford F-150 Lightning?,10.9,28.7,0.34,0.34,NO,NO,YES,['Ford']
+11,What is the EV market share in the United States?,10.6,22.4,0.71,0.71,YES,YES,YES,"['EV', 'United States', 'the United Stat"
+12,How have EV sales grown since 2010?,8.5,24.5,0.792,0.792,YES,YES,YES,['EV']
+13,What states have the highest EV adoption rates?,9.9,41.2,0.606,0.606,YES,YES,YES,['EV']
+14,What impact do ZEV regulations have on EV sales?,18.3,57.1,0.666,0.666,YES,YES,YES,['EV']
+15,How does China's EV market compare to the US?,20.1,52.7,0.731,0.731,YES,YES,YES,"['EV', 'DOE', 'China', 'US']"
+16,What is the connection between Elon Musk and OpenAI?,19.9,51.8,0.351,0.351,YES,YES,YES,"['OpenAI', 'Elon Musk', 'US']"
+17,How are Warren Buffett and BYD related to Tesla competi...,22.9,63.5,0.504,0.504,YES,YES,YES,"['BYD', 'Tesla', 'Warren Buffett']"
+18,What role does the Inflation Reduction Act play in EV i...,19.6,59.2,0.685,0.685,YES,YES,YES,"['EV', 'DOE', 'US']"
+19,How do charging infrastructure and EV adoption relate?,18.7,48.0,0.705,0.7,YES,YES,YES,['EV']
+20,What is the relationship between battery technology and...,16.8,52.3,0.67,0.66,NO,NO,YES,['EV']
